@@ -1,0 +1,9 @@
+import pandas as pd
+import numpy as py
+
+LFP = pd.read_csv('La Liga 17-18 players.csv')
+print (LFP.columns)
+
+LFPA = LFP[['firstName','lastName', 'teamName','isOpta','manOfTheMatch','goal', 'assistTotal', 'shotsPerGame', 'aerialWonPerGame','rating', 'minsPlayed', 'yellowCard', 'redCard',
+       'passSuccess', 'ranking']]
+print (LFPA)       
