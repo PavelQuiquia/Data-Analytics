@@ -1,2 +1,2 @@
 # Data-Analytics
-This is first Repo for analytics
+for the steps read the txt file: Steps to PlayerStatsLiga17
