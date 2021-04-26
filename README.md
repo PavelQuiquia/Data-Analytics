@@ -1,2 +1,3 @@
-# Data-Analytics
-for the steps read the txt file: Steps to PlayerStatsLiga17
+# First web scraping and Data analysis 
+
+For the steps, read the txt file: Steps to PlayerStatsLiga17
