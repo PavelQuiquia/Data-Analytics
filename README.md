@@ -2,7 +2,7 @@
 
 Visualization of players 'La liga' Season 17-18
 
-I'll detail the steps to get some analytics of players from 'La Liga', season 17-18
+Steps to get some analytics of players from 'La Liga', season 17-18
 
 Using: 
 Get URL from chrome 
